@@ -1,13 +1,16 @@
 nome,ano_publicacao,titulo_publicacao,periodico,issn,qualis,pontos,similar
 Cristiano Miranda de Araújo,2023,Development and validation of BATUTA: a test to evaluate the musical perception of people with hearing impairment,CODAS,2317-1782,A3,80.0,False
 Cristiano Miranda de Araújo,2023,Impact of the COVID-19 pandemic on the sleep quality of students: a meta-analysis and meta-regression,BEHAVIORAL SLEEP MEDICINE,1540-2002,A1,100.0,False
-Cristiano Miranda de Araújo,2023,Worldwide prevalence and risk factor of obstructive sleep apnea: a meta-analysis and meta-regression,SLEEP AND BREATHING,1520-9512,A4,70.0,False
 Cristiano Miranda de Araújo,2023,Evidence on Vocal Interventions in Adults: A Scoping Review,JOURNAL OF VOICE,0892-1997,A2,90.0,False
 Cristiano Miranda de Araújo,2023,Prevalence of chewing difficulty in older people in long-term care: A systematic review and meta-analysis,GERODONTOLOGY,0734-0664,A2,90.0,False
-Cristiano Miranda de Araújo,2023,Impact of bariatric surgery on oral health: a systematic review and meta-analysis,CLINICAL ORAL INVESTIGATIONS,1432-6981,A1,100.0,False
+Cristiano Miranda de Araújo,2023,The effect of palate expansion in the decrease of symptoms related to sleep bruxism in children: clinical case report,RSBO. REVISTA SUL-BRASILEIRA DE ODONTOLOGIA,1806-7727,B3,40.0,False
+Cristiano Miranda de Araújo,2023,Thermographic analysis during rapid maxillary expansion,RSBO. REVISTA SUL-BRASILEIRA DE ODONTOLOGIA,1806-7727,B3,40.0,False
 Cristiano Miranda de Araújo,2023,Evolução e desfecho de casos de violência intrafamiliar contra crianças e adolescentes:,REVISTA DISTURBIOS DA COMUNICAÇÃO,2176-2724,B2,50.0,False
 Cristiano Miranda de Araújo,2023,Impact of orthognathic surgery on voice and speech: a systematic review and meta-analysis,EUROPEAN JOURNAL OF ORTHODONTICS,0141-5387,A1,100.0,False
 Cristiano Miranda de Araújo,2023,Auditory and vestibular findings in brazilian adults affected by COVID-19: an exploratory study,AUDIOLOGY AND NEURO-OTOLOGY,1420-3030,A2,90.0,False
+Cristiano Miranda de Araújo,2023,Digital radiographic evaluation of root resorption during orthodontic treatment. An in vivo study,RSBO,1984-5685,B3,40.0,False
+Cristiano Miranda de Araújo,2023,Evaluation of external apical radicular reabsortion in the upper and lower teeth in orthodontic treatment,RSBO,1984-5685,B3,40.0,False
+Cristiano Miranda de Araújo,2023,Does orthognathic surgery influence the quality of life?,RSBO,1984-5685,B3,40.0,False
 Cristiano Miranda de Araújo,2023,Evaluation of Endo 10 Mobile application as diagnostic tool in endodontics,JOURNAL OF CLINICAL AND EXPERIMENTAL DENTISTRY,1989-5488,A4,70.0,False
 Cristiano Miranda de Araújo,2023,Análise de três métodos de estimativa da idade pela mineralização dentária em crianças do Sul do Brasil,RSBO,1984-5685,B3,40.0,False
 Cristiano Miranda de Araújo,2023,Prevalence of signs and symptoms related to temporomandibular disorders and orofacial pain in patients indicated for orthognathic surgery: a meta-analysis,CLINICAL ORAL INVESTIGATIONS (PRINT),1436-3771,A1,100.0,False
@@ -15,6 +18,10 @@ Cristiano Miranda de Araújo,2023,"Age, gender, and 11 comorbidities as risk fac
 Cristiano Miranda de Araújo,2023,The Self-Stigma of Hearing Loss in Adults and Older Adults: A Systematic Review,EAR AND HEARING,1538-4667,A1,100.0,False
 Cristiano Miranda de Araújo,2023,Self-Perception of Social Participation Restrictions in Adults and Older Adults with Hearing Loss: A Systematic Review,GLOBAL JOURNAL OF MEDICAL RESEARCH,0975-5888,B1,60.0,False
 Cristiano Miranda de Araújo,2023,The Prevalence of Oropharyngeal Dysphagia in Adults: A Systematic Review and Meta-analysis,DYSPHAGIA,0179-051X,A1,100.0,False
+Cristiano Miranda de Araújo,2023,Internal Consistency of the Voice Handicap Index in Individuals With Dysphonia: A Systematic Review and Meta-Analysis,JOURNAL OF VOICE,0892-1997,A2,90.0,False
+Cristiano Miranda de Araújo,2023,Association between atypical swallowing and malocclusions: a systematic review.,DENTAL PRESS JOURNAL OF ORTHODONTICS,2176-9451,A4,70.0,False
+Cristiano Miranda de Araújo,2023,Impact of bariatric surgery on oral health: a systematic review and meta-analysis,CLINICAL ORAL INVESTIGATIONS (PRINT),1436-3771,A1,100.0,False
+Cristiano Miranda de Araújo,2023,Worldwide prevalence and associated risk factors of obstructive sleep apnea: a meta-analysis and meta-regression.,SLEEP AND BREATHING,1520-9512,A4,70.0,False
 Cristiano Miranda de Araújo,2023,Prevalence of orofacial injuries resulting from trauma in individuals with cerebral palsy,DENTAL TRAUMATOLOGY,1600-4469,A2,90.0,False
 Cristiano Miranda de Araújo,2022,Comparison of orthodontic root resorption of root-filled and vital teeth,JOURNAL OF THE AMERICAN DENTAL ASSOCIATION,0002-8177,A1,100.0,False
 Cristiano Miranda de Araújo,2022,Changes in cognitive performance after cochlear implantation in adults and older adults: a systematic review and meta-analysis,INTERNATIONAL JOURNAL OF AUDIOLOGY,1499-2027,A1,100.0,False
@@ -31,7 +38,8 @@ Cristiano Miranda de Araújo,2022,Front lines of the COVID-19 pandemic: what is 
 Cristiano Miranda de Araújo,2022,Psychosocial changes in patients submitted to orthodontic surgery treatment: a systematic review and meta-analysis,CLINICAL ORAL INVESTIGATIONS,1432-6981,A1,100.0,False
 Cristiano Miranda de Araújo,2022,Periodontal parameters in orthodontically tractioned teeth: A systematic review and meta-analysis,KOREAN JOURNAL OF ORTHODONTICS,2005-372X,A3,80.0,False
 Cristiano Miranda de Araújo,2022,Deglutition assessment instruments used in critical patients submitted to orotracheal extubation: a scoping review,REVISTA CEFAC (ONLINE),1982-0216,B1,60.0,False
-Cristiano Miranda de Araújo,2022,Association between atypical swallowing and malocclusions: a systematic review,DENTAL PRESS JOURNAL OF ORTHODONTICS,2177-6709,A4,70.0,False
+Cristiano Miranda de Araújo,2022,Association between atypical swallowing and malocclusions: a systematic review,DENTAL PRESS JOURNAL OF ORTHODONTICS,2177-6709,A4,70.0,True
+Cristiano Miranda de Araújo,2022,Periodontal Parameters in orthodontically tractioned teeth: a sistematic review and meta-analysis,KOREAN JOURNAL OF ORTHODONTICS,2234-7518,A2,90.0,True
 Cristiano Miranda de Araújo,2021,Musical Perception Assessment of People With Hearing Impairment: A Systematic Review and Meta-Analysis,AMERICAN JOURNAL OF AUDIOLOGY,1059-0889,A4,70.0,False
 Cristiano Miranda de Araújo,2021,Prevalence of temporomandibular disorders in musicians: A systematic review and meta¿analysis,JOURNAL OF ORAL REHABILITATION,0305-182X,A2,90.0,False
 Cristiano Miranda de Araújo,2021,Effect of isotretinoin on induced tooth movement in rats,AMERICAN JOURNAL OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS,0889-5406,A1,100.0,False
@@ -63,6 +71,8 @@ Adriana Bender Moreira de Lacerda,2021,Vestibular Function Evaluation in Endemic
 Adriana Bender Moreira de Lacerda,2021,Communication With Older Adults in Times of a Pandemic: Practical Suggestions for the Health Care Professionals,PUBLIC HEALTH REVIEWS,2107-6952,A1,100.0,False
 Adriana Bender Moreira de Lacerda,2021,Findings on the Central Auditory Functions of Endemic Disease Control Agents,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH,1660-4601,A1,100.0,False
 Ana Paula Berberian,2023,Percepção de alunos de Fonoaudiologia e Pedagogia acerca da linguagem escrita acadêmica,CODAS,2317-1782,A3,80.0,False
+Ana Paula Berberian,2023,Oficina de letramento no ensino superior: Visão de alunos acerca de suas condições de escrita e leitura.,REVISTA IBERO-AMERICANA DE ESTUDOS EM EDUCAÇÃO,1982-5587,A1,100.0,False
+Ana Paula Berberian,2023,A LINGUAGEM E OS PERCURSOS DE LETRAMENTOS NA EDUCAÇÃO E NA SAÚDE:  PRODUÇÕES DIALÓGICAS  NA E PARA A COSNTRUÇÃO DO CONHECIMENTO,REVISTA IBERO-AMERICANA DE ESTUDOS EM EDUCAÇÃO,1982-5587,A1,100.0,False
 Ana Paula Berberian,2022,Letramento e acessibilidade no ensino superior: visões de professores,REVISTA COCAR (ONLINE),2237-0315,A2,90.0,False
 Ana Paula Berberian,2022,Effect of The Patient-Centered Care Model on Health profissional satisfaction: a sistematic review,REVISTA GAÚCHA DE ENFERMAGEM (UFRGS),0102-6933,A3,80.0,True
 Ana Paula Berberian,2022,Prancha de Comunicação Suplementar e/ou Alternativa (PCA) no contexto educacional: uma revisão integrativa,REVISTA DE EDUCAÇÃO PUC-CAMPINAS,2318-0870,A3,80.0,True
@@ -128,7 +138,7 @@ Giselle Aparecida de Athayde Massi,2021,Qualidade de vida e condições de saúd
 Giselle Aparecida de Athayde Massi,2021,Cuidadores de idosos: a percepção dos fatores que impactam sua qualidade de vida,REVISTA SÍTIO NOVO - INSTITUTO FEDERAL DO TOCANTINS,2594-7036,B2,50.0,False
 Giselle Aparecida de Athayde Massi,2021,O impacto intrafamiliar do diagnóstico da síndrome de Down: uma revisão integrativa,BRAZILIAN JOURNAL OF DEVELOPMENT,2525-8761,C,0.0,False
 José Stechman Neto,2023,Impact of the COVID-19 pandemic on the sleep quality of students: A meta-analysis and meta-regression,BEHAVIORAL SLEEP MEDICINE,1540-2002,A1,100.0,True
-José Stechman Neto,2023,Worldwide prevalence and associated risk factors of obstructive sleep apnea: a meta-analysis and meta-regression,SLEEP AND BREATHING,1520-9512,A4,70.0,False
+José Stechman Neto,2023,Worldwide prevalence and associated risk factors of obstructive sleep apnea: a meta-analysis and meta-regression,SLEEP AND BREATHING,1520-9512,A4,70.0,True
 José Stechman Neto,2022,Risk factors associated with the stability of mini-implants and mini-plates: systematic review and meta-analysis,CLINICAL ORAL INVESTIGATIONS,1432-6981,A1,100.0,True
 José Stechman Neto,2022,Comparison of orthodontic root resorption of root-filled and vital teeth,JOURNAL OF THE AMERICAN DENTAL ASSOCIATION,0002-8177,A1,100.0,True
 José Stechman Neto,2022,Acoustic analysis of swallowing sounds with the use of Sonar Doppler in premature babies during food transition,"RESEARCH, SOCIETY AND DEVELOPMENT",2525-3409,C,0.0,True
